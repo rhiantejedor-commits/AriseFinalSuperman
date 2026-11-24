@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Arise" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/terracotta</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryContainer">@color/peach_accent</item>
+        <item name="colorOnPrimaryContainer">@color/text_primary</item>
+        <item name="colorSecondary">@color/horizon_orange</item>
+        <item name="android:windowBackground">@color/cream_bg</item>
+        <item name="android:statusBarColor">@color/cream_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:fontFamily">serif</item>
+    </style>
+
+    <style name="Theme.Arise" parent="Base.Theme.Arise" />
+
+    <!-- Custom Button Style -->
+    <style name="Widget.Arise.Button.Peach" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/peach_accent</item>
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.06</item>
+        <item name="cornerSize">16dp</item>
+        <item name="elevation">0dp</item>
+    </style>
+</resources>

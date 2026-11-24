@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="44dp"
+    android:height="44dp"
+    android:viewportWidth="44"
+    android:viewportHeight="44">
+    <!-- Circle Outer Border -->
+    <path
+        android:fillColor="#FBEAD1"
+        android:pathData="M22,22 m-20,0 a20,20 0 1,0 40,0 a20,20 0 1,0 -40,0"
+        android:strokeWidth="1.5"
+        android:strokeColor="#B6773E" />
+    <!-- Mini Sun -->
+    <path
+        android:fillColor="#F7B94B"
+        android:pathData="M22,26 m-10,0 a10,10 0 1,0 20,0 a10,10 0 1,0 -20,0" />
+    <!-- Arise Text -->
+    <path
+        android:fillColor="#B6773E"
+        android:pathData="M14,18 Q22,14 30,18"
+        android:strokeWidth="2"
+        android:strokeColor="#B6773E" />
+</vector>

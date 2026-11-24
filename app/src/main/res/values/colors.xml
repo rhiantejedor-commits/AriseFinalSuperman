@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cream_bg">#FAF2E6</color>
+    <color name="sheet_bg">#FDFBF7</color>
+    <color name="greeting_card_fill">#FBEAD1</color>
+    <color name="peach_accent">#FAD8B0</color>
+    <color name="bottom_nav_fill">#FCECD7</color>
+    <color name="terracotta">#B6773E</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#7D6E5D</color>
+
+    <!-- Nature Landscape Accents -->
+    <color name="sunrise_gold">#F7B94B</color>
+    <color name="horizon_orange">#F4A96A</color>
+    <color name="forest_olive">#697D35</color>
+    <color name="deep_foliage">#3B4F1B</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Additional UI Colors -->
+    <color name="card_stroke">#EAD8C2</color>
+    <color name="divider_color">#E5D7C5</color>
+    <color name="progress_bg">#E6D7C3</color>
+    <color name="checkbox_checked">#B6773E</color>
+    <color name="checkbox_unchecked">#D0C0B0</color>
+</resources>

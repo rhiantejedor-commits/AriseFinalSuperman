@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29101926783",
+    "project_id": "arise-59994",
+    "storage_bucket": "arise-59994.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29101926783:android:43161257756ae49751924a",
+        "android_client_info": {
+          "package_name": "com.example.arise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWDK5vtSvt86LAzP2zgtfGnWJI0ARWHWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

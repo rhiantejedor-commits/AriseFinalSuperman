@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Arise</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="daily_quest">DAILY QUEST</string>
+    <string name="hi">Hi,</string>
+    <string name="default_user_name">User!</string>
+    <string name="nav_home">HOME</string>
+    <string name="nav_habits">HABITS</string>
+    <string name="nav_stats">STATS</string>
+    <string name="nav_profile">PROFILE</string>
+
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="display_name">Display Name</string>
+    <string name="guest_mode">Continue as Guest</string>
+
+    <string name="add_habit">Add Habit</string>
+    <string name="edit_habit">Edit Habit</string>
+    <string name="habit_title">Habit Title</string>
+    <string name="category">Category</string>
+    <string name="time">Time</string>
+    <string name="repeat_days">Repeat Days</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Category Names -->
+    <string name="cat_daily_fixed">Daily Habits (Fixed)</string>
+    <string name="cat_study">Study</string>
+    <string name="cat_work">Work</string>
+    <string name="cat_exercise">Exercise</string>
+    <string name="cat_personal">Personal</string>
+
+    <!-- Stats -->
+    <string name="total_completed">Completed</string>
+    <string name="longest_streak">Longest Streak</string>
+    <string name="total_missed">Missed</string>
+    <string name="completion_rate">Completion Rate</string>
+    <string name="current_level">Level</string>
+    <string name="achievements">Achievements</string>
+
+    <!-- Notification -->
+    <string name="habit_reminder_title">Habit Reminder</string>
+    <string name="action_mark_complete">Mark Complete</string>
+</resources>
